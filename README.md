@@ -1,6 +1,6 @@
 # my-recipe-app
 
-> My spectacular Nuxt.js project
+> My simple Nuxt.js project
 
 ## Build Setup
 
@@ -20,3 +20,12 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+### Feature
+- pages -> routing
+- asyncData -> server side rendering
+- layout/default.vue -> applied to all pages
+
+### Reference
+
+https://www.youtube.com/watch?v=nteDXuqBfn0&t=473s
