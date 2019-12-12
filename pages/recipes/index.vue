@@ -22,6 +22,8 @@
 .recipes {
   display: flex;
   flex-flow: row wrap;
+  justify-content: center;
+  align-items:center;
 }
 
 .recipe {
@@ -30,6 +32,7 @@
   padding: 8px;
   border: 1px solid #ccc;
   box-shadow: 0 2px 2px #aaa;
+  margin: 10px;
 }
 
 .thumnail {
